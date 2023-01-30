@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "name": "Zhanylmyrza",
+      "surname": "Bakirova",
+      "faculty": "Engineering and Ingormatics",
+      "department": "Applied Mathematics & Informatics",
+      "course": 3
+    },
+
+    {
+      "name": "Zhibeka",
+      "surname": "Abdurasulova",
+      "faculty": "Economics and Administrative Science",
+      "department": "Managements",
+      "course": 3
+    }
+  ]
+}
